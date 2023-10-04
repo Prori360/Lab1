@@ -16,5 +16,6 @@ public class Main {
     }
     public void cosTan(String name){
         System.out.println(name+'k');
+        System.out.println(name + "XD");
     }
 }
