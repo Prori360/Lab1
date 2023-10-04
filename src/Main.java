@@ -14,4 +14,7 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+    public void cosTan(String name){
+        System.out.println(name);
+    }
 }
